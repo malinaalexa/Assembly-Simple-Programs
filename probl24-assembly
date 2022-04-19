@@ -1,4 +1,4 @@
-; problema 24
+; problema 24 Steica Malina-Alexa, Grupa 161
 section .data
     msg db  "Numarul este negativ!"
     len equ $ - msg
